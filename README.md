@@ -1,1 +1,2 @@
 # pattern
+DIWALI_PATTERN
